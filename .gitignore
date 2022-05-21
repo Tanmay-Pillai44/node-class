@@ -1,0 +1,11 @@
+express/node_modules
+./express/node_modules
+./frontends/frontendapi/node_modules
+frontends/frontendapi/node_modules
+templateengines/node_modules
+./templateengines/node_modules
+routing/node_modules
+./routing/node_modules
+./bookmarksapp/node_modules
+bookmarksapp/node_modules
+herokudeploynew/node_modules
